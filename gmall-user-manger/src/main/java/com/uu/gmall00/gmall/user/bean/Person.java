@@ -4,6 +4,7 @@ public class Person {
 
     String name;
     Integer age;
+    String address;
 
     public Person(){}
 
