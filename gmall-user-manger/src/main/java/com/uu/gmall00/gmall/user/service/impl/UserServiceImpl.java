@@ -29,7 +29,7 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public void updateUser(UserInfo userInfo) {
-
+        userInfoMapper.updateByPrimaryKey(userInfo);
     }
 
     @Override
