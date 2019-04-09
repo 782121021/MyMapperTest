@@ -5,6 +5,7 @@ public class Person {
     String name;
     Integer age;
 
+    public Person(){}
 
 
     @Override
