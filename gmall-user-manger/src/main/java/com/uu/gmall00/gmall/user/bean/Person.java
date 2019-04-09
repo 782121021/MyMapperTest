@@ -6,7 +6,7 @@ public class Person {
     Integer age;
 
     public Person(){}
-    abc
+
 
     public String getName() {
         return name;
