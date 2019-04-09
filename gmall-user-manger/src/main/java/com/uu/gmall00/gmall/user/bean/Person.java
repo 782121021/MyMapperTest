@@ -10,6 +10,8 @@ public class Person {
     String hah;
 
     public Person(){}
+    public Person(String hah){}
+
 
     public String getName() {
         return name;
