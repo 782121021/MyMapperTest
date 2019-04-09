@@ -1,22 +1,11 @@
 package com.uu.gmall00.gmall.user.bean;
 
-import java.nio.channels.AsynchronousByteChannel;
-
 public class Person {
 
     String name;
     Integer age;
 
     public Person(){}
-
-    AsynchronousByteChannel
-
-        dfadsf
-
-        daadfasfsa
-        dsafadf
-        adfdaf
-
 
     public String getName() {
         return name;
