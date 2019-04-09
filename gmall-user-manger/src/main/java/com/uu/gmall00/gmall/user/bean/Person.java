@@ -6,6 +6,7 @@ public class Person {
     Integer age;
     String address;
     String sex;
+    String hah;
 
     public Person(){}
 
