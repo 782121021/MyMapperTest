@@ -5,6 +5,7 @@ public class Person {
     String name;
     Integer age;
     String address;
+    String sex;
 
     public Person(){}
 
