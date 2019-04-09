@@ -38,4 +38,8 @@ public class UserInfoController {
         userService.addUser(userInfo);
         return "OK";
     }
+    
+    @RequestMapping("delete")
+    @ResponseBody
+    public void delete(){}
 }
